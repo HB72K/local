@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
-    <project path="device/motorola/namath" name="HB72K/android_device_motorola_namath" remote="github" revision="aosp" />
+    <project path="device/motorola/namath" name="HB72K/android_device_motorola_namath" remote="github" revision="viper-n" />
     <project path="kernel/motorola/namath" name="HB72K/Moto-C-namath-kernel" remote="github" revision="LOS-14.1" />
     <project path="vendor/motorola/namath" name="HB72K/android_vendor_motorola_namath" remote="github" revision="LOS-14.1" />
    
