@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
    <manifest>
-	<remote name="HB72K" fetch="https://github.com/HB72K/android_device_motorola_namath.git" /> 
-	<remote name="HB72K" fetch="https://github.com/HB72K/android_vendor_motorola_namath.git" />
-	<remote name="HB72K" fetch="https://github.com/HB72K/Moto-C-namath-kernel.git" /> 
+
         <remote name="HB72K" fetch="https://github.com/HB72K" />
         
 
