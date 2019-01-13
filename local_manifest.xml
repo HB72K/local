@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     
-    <project path="device/motorola/namath" name="HB72K/android_device_motorola_namath" remote="github" revision="Viper-n" />
-    <project path="kernel/motorola/namath" name="HB72K/Moto-C-namath-kernel" remote="github" revision="LOS-14.1" />
-    <project path="vendor/motorola/namath" name="HB72K/android_vendor_motorola_namath" remote="github" revision="LOS-14.1" />
+    <project path="device/samsung/grandpplte" name="HB72K/android_device_samsung_grandpplte" remote="github" revision="master" />
+    <project path="device/mediatek/mt6737-common" name="HB72K/android_device_mediatek_mt6737-common" remote="github" revision="cm-14.1" />
+    <project path="vendor/samsung/grandpplte" name="HB72K/android_vendor_samsung_grandpplteser" remote="github" revision="master" />
+    <project path="kernel/samsung/grandpplte" name="HB72K/android_kernel_samsung_grandpplteser" remote="github" revision="lineage-14.1" />
    
 </manifest>
