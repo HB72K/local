@@ -2,7 +2,7 @@
 <manifest>
     
     <project path="device/motorola/namath" name="HB72K/android_device_motorola_namath" remote="github" revision="Viper-n" />
-    <project path="kernel/motorola/namath" name="HB72K/Moto-C-namath-kernel" remote="github" revision="master" />
+    <project path="kernel/motorola/namath" name="HB72K/Moto-C-namath-kernel" remote="github" revision="test" />
     <project path="vendor/motorola/namath" name="HB72K/android_vendor_motorola_namath" remote="github" revision="master" />
    
 </manifest>
